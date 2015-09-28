@@ -1,1 +1,3 @@
 # elip
+
+Extensible LIght Protocol
